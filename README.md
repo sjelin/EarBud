@@ -21,7 +21,7 @@ Development Philosophy
 * **Work distributed.** Amy is going to be in NYC for most of the hackathon
 * **No fixed hours.** Amy will also be busy most of the time she's in NYC
 * **Work asynchronously.** So it's important that Amy never be a blocking factor
-* **No managers.** This philosophy has worked with two employees, and we think it can scale to three, or even four
+* **No managers.** This has worked with two employees, and we think it can scale to three, or even four
 * **No meetings.** All discussion can happen over chat
 
 Development Goals
