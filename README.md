@@ -14,6 +14,7 @@ Development Goals
 =================
 
 This app will be made during TartanHacks 2014.  In order, our goals are as follows:
+
 1. Win first place in the alumni division of TartanHacks
 2. Convince ScottyLabs that there is an alumni division of TartanHacks
 3. Have entierly too much fun with the idea
@@ -23,4 +24,4 @@ This app will be made during TartanHacks 2014.  In order, our goals are as follo
 
 License
 =======
-MIT License.  See `LICENSE` file for details
+MIT License.  See [`LICENSE`](LICENSE) file for details
