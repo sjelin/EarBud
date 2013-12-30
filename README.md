@@ -36,6 +36,11 @@ In order, our goals are as follows:
 5. Use as many of the TartanHacks sponsors' APIs as possible, and maybe even a few more than that
 6. Get more alumni to sign up for the team
 
+Apply
+=====
+
+Are you a ninja-rockstar-guru-samurai-hero-hacker developer?  What about a designer who hand-crafts beautiful pixels and magical interfaces?  More importantly: are you an alumnus of Carnegie Mellon University?  Then apply now!
+
 License
 =======
 MIT License.  See [`LICENSE`](LICENSE) file for details
