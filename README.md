@@ -8,7 +8,7 @@ This allows for an avant-garde, micro-social, music appreciation phenomenon.  No
 The Billboard Hot 100 Challenge
 -------------------------------
 
-The Billboard Hot 100 list is truly painful to listen to in order.  Generally after the first 20-ish songs it becomes a totally inconsistent mix of rap and country that literally no one appreciates.  That's exactly why you should use an app like EchoChamber to see who can stand to listen to more songs before giving up
+The Billboard Hot 100 list is truly painful to listen to.  Generally after the first 20-ish songs it becomes a totally inconsistent mix of rap and country that literally no one appreciates.  That's exactly why you should use an app like EchoChamber to see who can stand to listen to more songs before giving up
 
 Our lame competitors
 --------------------
