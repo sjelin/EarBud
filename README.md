@@ -15,13 +15,13 @@ The BillBoard Top 100 list is truly painful to listen to in order.  Generally af
 Development Goals
 =================
 
-This app will be made during TartanHacks 2014.  In order, our goals are as follows:
+This app will be made during TartanHacks 2014 (January 31 - February 1).  In order, our goals are as follows:
 
 1. Win first place in the alumni division of TartanHacks
 2. Convince ScottyLabs that there is an alumni division of TartanHacks
-3. Have entierly too much fun with the idea
-4. Build something that works for playlists
-5. Use as many of the APIs advertised by TartanHacks sponsors as possible, and hopfully a few more than are possible
+3. Have entirely too much fun with the idea
+4. Build something that works (for playlists at least)
+5. Use as many of the APIs advertised by TartanHacks sponsors as possible, and hopefully a few more than are possible
 6. Get more alumni to sign up for the team
 
 License
