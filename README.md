@@ -27,6 +27,20 @@ This app will be made during TartanHacks 2014 (January 31 - February 1).  In ord
 5. Use as many of the TartanHacks sponsors' APIs as possible, and hopefully a few more than are possible
 6. Get more alumni to sign up for the team
 
+Development Philosophy
+======================
+
+* **Release early and often.**  We hope to have version 1 finished within 24 hours of when we start coding
+* **Hyper-agile** Our product cycles are measured in hours, not days or months
+* **Dogfood.** We will use the app internally for music listening
+* **Move fast and break things.** We will probably use the facebook login API
+* **Don't be evil.** We will not make people use Google+
+* **Work distributed.** Amy is going to be in NYC for most of the hackathon
+* **No fixed hours.** Amy will also be busy most of the time she's in NYC
+* **Work asynchronously.**  So it's important that Amy never be a blocking factor
+* **No managers.** This philosophy has worked with two employees, and we think it can scale to three, or even four
+* **No meetings.** All discussion can happen over chat
+
 License
 =======
 MIT License.  See [`LICENSE`](LICENSE) file for details
