@@ -5,6 +5,8 @@ A peer-to-peer app for friends listening to playlists together
 
 Let's say you and some friends all loved [Fun.](http://en.wikipedia.org/wiki/Fun_(band\)), and they just came out with a new album.  You guys might want to experience the album for the first time together.  It can be kind of a pain to sync up your music across multiple computers though (especially if you don't both have Spotify Premium).  EchoChamber solves this problem.
 
+EchoChamber is different than Spotify apps like Soundrop because it is focused on friends experiencing music simultaneously.  In apps like Soundrop, users collaboratively generate a music queue which each individual makes his/her way through as his/her own pace.  In EchoChamber, users go through a playlist together.  If one user has to pause the music (or listen to an ad or something), the music is paused on all machines.  If a user decides to go forward or back a couple of seconds in a song, that change is pushed to all other listeners.  If a new user joins into a group, that user begins listening to the current song at the exact second which all the other listeners are at.  In this sense, EchoChamber is hyper-personal, and isn't intended for use by large groups.
+
 The BillBoard Top 100 Challenge
 -------------------------------
 
