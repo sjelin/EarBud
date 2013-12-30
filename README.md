@@ -1,16 +1,19 @@
 EchoChamber
 ===========
 
-A peer-to-peer app for friends listening to playlists together
+EchoChamber is a peer-to-peer app which allows you and some friends to listen to a Spotify playlist synchronously across multiple machines.  If you hit pause, the music is paused across all machines.  If you adjust the song position backward or forward a couple seconds, the song position is adjusted on all machines.  If you get an ad, everyone else's players will pause until your ad is finished.
 
-Let's say you and some friends all loved [Fun.](http://en.wikipedia.org/wiki/Fun_(band\)), and they just came out with a new album.  You guys might want to experience the album for the first time together.  It can be kind of a pain to sync up your music across multiple computers though (especially if you don't both have Spotify Premium).  EchoChamber solves this problem.
+This allows for an avant-garde, micro-social, music appreciation phenomenon.  Now you and a friend can experience and discuss the exact same music, in real time, across any distance.
 
-EchoChamber is different than Spotify apps like Soundrop because it is focused on friends experiencing music simultaneously.  In apps like Soundrop, users collaboratively generate a music queue which each individual makes his/her way through as his/her own pace.  In EchoChamber, users go through a playlist together.  If one user has to pause the music (or listen to an ad or something), the music is paused on all machines.  If a user decides to go forward or back a couple of seconds in a song, that change is pushed to all other listeners.  If a new user joins into a group, that user begins listening to the current song at the exact second which all the other listeners are at.  In this sense, EchoChamber is hyper-personal, and isn't intended for use by large groups.
-
-The BillBoard Top 100 Challenge
+The Billboard Hot 100 Challenge
 -------------------------------
 
-The BillBoard Top 100 list is truly painful to listen to in order.  Generally after the first 20 it becomes a totally inconsistent mix of rap and country that literally no one appreciates.  That's exactly why you should use an app like EchoChamber to see who (between you and a friend) can stand to listen to more songs before giving up
+The Billboard Hot 100 list is truly painful to listen to in order.  Generally after the first 20-ish songs it becomes a totally inconsistent mix of rap and country that literally no one appreciates.  That's exactly why you should use an app like EchoChamber to see who can stand to listen to more songs before giving up
+
+Our lame competitors
+--------------------
+
+There is already a Spotify app called Soundrop, which lets people collaboratively build music queues.  But the music queues are generally out of sync, so you lose the whole shared music experience!  Lame.
 
 Development Goals
 =================
