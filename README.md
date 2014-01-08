@@ -34,7 +34,7 @@ In order, our goals are as follows:
 3. Convince ScottyLabs that there is an alumni division of TartanHacks
 4. Build something that mostly works (for playlists at least)
 5. Use as many of the TartanHacks sponsors' APIs as possible, and maybe even a few more than that
-6. Get more alumni to sign up for the team.
+6. Get more alumni to sign up for the team
 7. Crush it.
 
 Apply
