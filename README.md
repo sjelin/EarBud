@@ -32,10 +32,10 @@ In order, our goals are as follows:
 1. Use as many buzzwords as possible
 2. Win first place in the alumni division of TartanHacks
 3. Convince ScottyLabs that there is an alumni division of TartanHacks
-4. Crushing it 24/7
-5. Build something that mostly works (for playlists at least)
-6. Use as many of the TartanHacks sponsors' APIs as possible, and maybe even a few more than that
-7. Get more alumni to sign up for the team
+4. Build something that mostly works (for playlists at least)
+5. Use as many of the TartanHacks sponsors' APIs as possible, and maybe even a few more than that
+6. Get more alumni to sign up for the team.
+7. Crush it.
 
 Apply
 =====
