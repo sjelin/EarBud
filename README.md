@@ -15,7 +15,7 @@ Development Philosophy
 ======================
 
 * **Release early and often.**  We hope to have version 1 finished within 24 hours of when we start coding
-* **Hyper-agile** Our product cycles are measured in hours, not days or months
+* **Hyper-agile.** Our product cycles are measured in hours, not days or months
 * **Move fast and break things.** We will probably use the facebook login API
 * **Don't be evil.** We will not make people use Google+
 * **Work distributed.** Amy is going to be in NYC for most of the hackathon
@@ -27,7 +27,7 @@ Development Philosophy
 Development Goals
 =================
 
-In order, our goals are as follows:
+Our goals are as follows:
 
 1. Use as many buzzwords as possible
 2. Win first place in the alumni division of TartanHacks
