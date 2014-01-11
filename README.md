@@ -40,7 +40,7 @@ Our goals are as follows:
 Apply
 =====
 
-Are you a ninja-rockstar-guru-samurai-jedi-hero-hacker developer?  What about a designer who hand-crafts beautiful pixels and magical interfaces?  More importantly: are you an alumnus of Carnegie Mellon University?  Then apply now!
+Are you a ninja-rockstar-guru-samurai-jedi-hero-hacker developer?  What about a UI-wizard who hand-crafts beautiful pixels and magical interfaces?  More importantly: are you an alumnus of Carnegie Mellon University?  Then apply now!
 
 License
 =======
