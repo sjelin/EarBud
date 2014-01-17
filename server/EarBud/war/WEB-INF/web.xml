@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+              http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+         version="2.5"
+         xmlns="http://java.sun.com/xml/ns/javaee">
+
+  <!-- Servlets -->
+  <servlet>
+    <servlet-name>greetServlet</servlet-name>
+    <servlet-class>com.earbud.server.GreetingServiceImpl</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>greetServlet</servlet-name>
+    <url-pattern>/earbud/greet</url-pattern>
+  </servlet-mapping>
+  
+  <!-- Default page to serve -->
+  <welcome-file-list>
+    <welcome-file>EarBud.html</welcome-file>
+  </welcome-file-list>
+
+
+	<servlet>
+		<servlet-name>connectServlet</servlet-name>
+		<servlet-class>my.ConnectServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>connectServlet</servlet-name>
+		<url-pattern>/connect</url-pattern>
+    </servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>connectServlet</servlet-name>
+		<url-pattern>/connect/</url-pattern>
+    </servlet-mapping>
+
+	<servlet>
+		<servlet-name>downloadJSServlet</servlet-name>
+		<servlet-class>my.DownloadJSServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>downloadJSServlet</servlet-name>
+		<url-pattern>/main.js</url-pattern>
+    </servlet-mapping>
+
+	<servlet>
+		<servlet-name>sendMsgServlet</servlet-name>
+		<servlet-class>my.SendMsgServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>sendMsgServlet</servlet-name>
+		<url-pattern>/sendMsg</url-pattern>
+    </servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>sendMsgServlet</servlet-name>
+		<url-pattern>/sendMsg/</url-pattern>
+    </servlet-mapping>
+
+	<servlet>
+		<servlet-name>uploadJSServlet</servlet-name>
+		<servlet-class>my.UploadJSServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>uploadJSServlet</servlet-name>
+		<url-pattern>/uploadJS</url-pattern>
+    </servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>uploadJSServlet</servlet-name>
+		<url-pattern>/uploadJS/</url-pattern>
+    </servlet-mapping>
+
+
+</web-app>

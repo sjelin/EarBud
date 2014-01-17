@@ -1,0 +1,8 @@
+package my;
+
+import javax.servlet.http.HttpServlet;
+
+public class ConnectServlet extends HttpServlet {
+	private static final long serialVersionUID = -786577589627529602L;
+
+}

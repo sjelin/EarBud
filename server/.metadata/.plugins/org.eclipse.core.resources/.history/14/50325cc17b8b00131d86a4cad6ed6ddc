@@ -1,0 +1,9 @@
+package my;
+
+import javax.servlet.http.HttpServlet;
+
+public class SendMsgServlet extends HttpServlet {
+	private static final long serialVersionUID = -6617715731338650543L;
+
+	
+}

@@ -1,0 +1,8 @@
+package my;
+
+import javax.servlet.http.HttpServlet;
+
+public class JSServlet extends HttpServlet {
+	private static final long serialVersionUID = 6218135227679830681L;
+
+}
