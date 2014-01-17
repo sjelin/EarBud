@@ -1,7 +1,7 @@
-EchoChamber
-===========
+EarBud
+======
 
-EchoChamber is a social-local-mobile peer-to-peer platform which allows you and some friends to listen to a Spotify playlist synchronously across multiple machines.  If you hit pause, the music is paused across all machines.  If you adjust the song position backward or forward a couple seconds, the song position is adjusted on all machines.  If you get an ad, everyone else's players will pause until your ad is finished.
+EarBud is a social-local-mobile peer-to-peer platform which allows you and some friends to listen to a Spotify playlist synchronously across multiple machines.  If you hit pause, the music is paused across all machines.  If you adjust the song position backward or forward a couple seconds, the song position is adjusted on all machines.  If you get an ad, everyone else's players will pause until your ad is finished.
 
 This allows for an avant-garde, micro-social, music appreciation phenomenon.  Now you and a friend can experience and discuss the exact same music, in real time, across any distance.
 
@@ -9,7 +9,7 @@ This app will be made during TartanHacks 2014 (January 31 - February 1).
 
 ### The Billboard Hot 100 Challenge
 
-The Billboard Hot 100 list is truly painful to listen to.  Generally after the first 20-ish songs it becomes a totally inconsistent mix of rap and country that literally no one appreciates.  That's exactly why you should use an app like EchoChamber to see who can stand to listen to more songs before giving up
+The Billboard Hot 100 list is truly painful to listen to.  Generally after the first 20-ish songs it becomes a totally inconsistent mix of rap and country that literally no one appreciates.  That's exactly why you should use an app like EarBud to see who can stand to listen to more songs before giving up
 
 Development Philosophy
 ======================
